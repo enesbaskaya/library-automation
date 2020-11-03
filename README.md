@@ -1,2 +1,2 @@
-# kutuphane-otomasyon---library-automation
-Sakarya University vyts library automation project
+# library-automation
+library automation project
